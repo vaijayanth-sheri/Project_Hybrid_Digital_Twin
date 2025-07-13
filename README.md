@@ -1,7 +1,16 @@
-# 🌞 Hybrid Digital Twin Dashboard
+# 🌞 Hybrid Renewable Digital Twin (Streamlit Dashboard)
 
 An interactive Streamlit app to simulate a hybrid renewable energy plant (solar + wind + battery) with live weather integration via OpenWeatherMap API.
 
+A simplified but interactive digital twin dashboard for hybrid solar + wind + battery systems.
+Users can configure plant parameters, set household load, and visualize real-time power flows using live weather from OpenWeatherMap.
+
+## 🔧 Built With
+  - Streamlit (UI & App logic)
+  - Python (Data simulation & modeling)
+  - OpenWeatherMap API
+  - Beautiful dashboard with charts and KPIs
+    
 ## 🚀 Features
 - Configure solar panel model, wind turbine type, battery capacity, and household load
 - Live weather fetch (irradiance + wind speed)
